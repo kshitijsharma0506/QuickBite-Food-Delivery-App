@@ -28,7 +28,7 @@ Follow the steps below to set up the project on your local machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone 
+   git clone https://github.com/kshitijsharma0506/QuickBite-Food-Delivery-App.git
 
 2. **Install Node Modules and package files:**
 
