@@ -15,6 +15,9 @@ This is a **React-based** food delivery application built with **Vite** for fast
 - Place orders
 - User-friendly and responsive design
 
+## Deployed on Netlify:
+https://quickbite-food-delivery-app-react.netlify.app
+
 ## Installation
 
 Follow the steps below to set up the project on your local machine.
