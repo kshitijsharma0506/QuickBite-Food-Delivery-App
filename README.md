@@ -51,3 +51,25 @@ Follow the steps below to set up the project on your local machine.
     ```bash
     cd backend
     npm start
+
+Main Page:
+
+![image](https://github.com/user-attachments/assets/430c82c0-224f-4723-af59-35e1085a6b1d)
+
+Cart Details:
+
+![image](https://github.com/user-attachments/assets/d02ccfaa-53af-4cde-82ce-48857b49a452)
+
+User Information:
+
+![image](https://github.com/user-attachments/assets/82a5e5ac-1814-492d-8566-93ddacc03ec1)
+
+Success Message:
+![image](https://github.com/user-attachments/assets/99051f21-9450-45a5-81cb-a939e55f2bba)
+
+Responsive Design:
+
+![image](https://github.com/user-attachments/assets/7ce94b3f-8eec-410c-893b-d25d96b5d813)
+
+
+
